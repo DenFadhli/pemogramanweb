@@ -1,0 +1,135 @@
+.navbar-brand {
+  font-family: arial;
+}
+
+#gambar1 {
+  max-width: 15rem;
+  margin: auto;
+  background-color: #9cbcf0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+#gambar2 {
+  max-width: 15rem;
+  margin: auto;
+  background-color: #9cbcf0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+#gambar3 {
+  max-width: 15rem;
+  margin: auto;
+  background-color: #9cbcf0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+#gambar4 {
+  max-width: 15rem;
+  margin: auto;
+  background-color: #9cbcf0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+.card-body {
+  background-color: #8aafeb;
+}
+
+#logo1 {
+  width: 237px;
+  height: 240px;
+  padding: 10px;
+  margin: auto;
+  transition: 0.5s;
+}
+
+#logo2 {
+  width: 230px;
+  height: 240px;
+  padding: 10px;
+  margin: auto;
+  transition: 0.5s;
+}
+
+#logo3,
+#logo4,
+#logo5,
+#logo6,
+#logo7 {
+  width: 236px;
+  height: 240px;
+  padding: 10px;
+  margin: auto;
+  transition: 0.5s;
+}
+
+#logo1:hover,
+#logo2:hover,
+#logo3:hover,
+#logo4:hover,
+#logo5:hover,
+#logo6:hover,
+#logo7:hover {
+  transform: rotate(360deg);
+  border-radius: 50%;
+}
+
+.card-body {
+  text-align: center;
+  color: white;
+  font-family: Helvetica;
+}
+
+h1,
+h2,
+p,
+label {
+  color: white;
+  font-family: Helvetica;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#pilihanmenu {
+  margin-top: 65px;
+}
+
+#textwelcome {
+  margin-top: 70px;
+}
+
+#keatas {
+  display: none;
+  position: fixed;
+  bottom: 60px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+  width: 50px;
+  height: 50px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.icon-atas {
+  width: 30px;
+  height: 30px;
+}
+
+#keatas:hover {
+  background-color: #0d6efd;
+}
